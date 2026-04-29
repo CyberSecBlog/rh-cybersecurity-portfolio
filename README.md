@@ -55,10 +55,9 @@ My current professional goal is to transition into a Cloud Security Engineer rol
 
 ---
 
-## Projects & Labs
+View my verified Cyber Skyline performance report here:
 
-More projects and cloud security labs will be added here as I continue building this portfolio.
-
+[Spring 2026 NCL Score Report](https://cyberskyline.com/world/69690a38f845cf0a7e6d8b87/breakdown/69690a38f845cf0a7e6d8b90)
 ---
 
 ## Connect With Me
